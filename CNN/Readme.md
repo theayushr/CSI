@@ -1,1 +1,1 @@
-# Freature Mapping CNN Architecture
+# Feature Mapping CNN Architecture
